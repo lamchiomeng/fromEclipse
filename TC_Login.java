@@ -54,6 +54,7 @@ public class TC_Login {
 	static String result;
 	static String fileName;
 	static int countDesCapTab;
+	static int github;
 	@SuppressWarnings("static-access")
 	public static void main(String[] args) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException { //Main method
 		//The following variables are for testing in DEV MODE. Comment it when testing in production
